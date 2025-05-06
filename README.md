@@ -11,11 +11,17 @@
  <img src="https://github.com/3bdo-mo7amed-999/logo/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f%20(1).gif?raw=true" />  
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdo-mo7amed-999&label=Profile%20views&color=0e75b6&style=flat" alt="3bdo-mo7amed-999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=3bdo-mo7amed-999&label=Profile%20views&color=0e75b6&style=flat" alt="3bdo-mo7amed-999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdo-mo7amed-999" alt="3bdo-mo7amed-999" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/3bdo_mo7amed999" target="blank"><img src="https://img.shields.io/twitter/follow/3bdo_mo7amed999?logo=twitter&style=for-the-badge" alt="3bdo_mo7amed999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/3bdo_mo7amed999" target="blank"><img src="https://img.shields.io/twitter/follow/3bdo_mo7amed999?logo=twitter&style=for-the-badge" alt="3bdo_mo7amed999" /></a>
+
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/3bdo-mo7amed-999](https://github.com/3bdo-mo7amed-999)
 
@@ -26,6 +32,7 @@
 - ⚡ Fun fact **Did you know that honey never spoils**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
@@ -74,7 +81,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdo-mo7amed-999&show_icons=true&locale=en" alt="3bdo-mo7amed-999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo-mo7amed-999&" alt="3bdo-mo7amed-999" /></p>
-
 
 <h2 align="c">Connect with me:</h2>
 <p align="left" > 

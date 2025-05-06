@@ -5,7 +5,11 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm I'm Abdelrahman Mohamed ❤️</h1>
-<h3 align="center">I am a software engineer specializing in full-stack web development and design, including front-end and back-end development and design. I have strong professional experience in this field and hold a bachelor's degree in computer science and information systems. {When ideas turn into software}</h3>
+<h3 align="center">I am a software engineer specializing in full-stack web development and design, including front-end and back-end development and design. I have strong professional experience in this field and hold a bachelor's degree in computer science and information systems. <br/> {When ideas turn into software}</h3>
+
+<div align="center">
+ <img src="" />  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdo-mo7amed-999&label=Profile%20views&color=0e75b6&style=flat" alt="3bdo-mo7amed-999" /> </p>
 

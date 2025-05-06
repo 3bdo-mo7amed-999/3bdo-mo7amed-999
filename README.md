@@ -6,8 +6,9 @@
 
 <h1 align="center">Hi there 👋, I'm Abdelrahman Mohamed ❤️</h1>
 
-< I am a software engineer specializing in website development and design, including (front-end and back-end development), I have over 4 years of professional experience in this field and hold a Bachelor's degree in Computer Science and Information Systems. /> <br>
-{When ideas turn into code}
+I am a software engineer specializing in full-stack web development and design, including front-end and back-end development and design.
+I have strong professional experience in this field and hold a bachelor's degree in computer science and information systems.
+{When ideas turn into software}
 
 <h2>My Tools:</h2>
 

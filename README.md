@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm I'm Abdelrahman Mohamed ❤️</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mohamed ❤️</h1>
 <h3 align="center">I am a software engineer specializing in full-stack web development and design, including front-end and back-end development and design.<br/> I have strong professional experience in this field and hold a bachelor's degree in computer science and information systems.<br/><br/> &lt;Codes/&gt; <br/><br/> {When ideas turn into software}</h3>
 
 <div align="center">
